@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150/e2e8f0/16a34a?text=AI" alt="Beton AI Logo" width="120" />
   <h1>🏗️ Yapay Zeka Destekli Beton Reçetesi</h1>
   <p><b>İnşaat Atıklarının Geri Dönüşümü ve Optimum Reçete Optimizasyonu</b></p>
 
@@ -31,3 +30,4 @@
 Modelin algoritma yapısı, eğitiminde kullanılan deneysel veri dizinleri ve endüstriyel sonuçları fikri mülkiyet hakları kapsamında özel olarak korunmaktadır.
 
 > 📌 **Basın & İletişim:** Projemizin televizyon/gazete haber kupürleri, analiz sonuç belgeleri, algoritmanın ürettiği canlı raporlar ile talep edilecek diğer tüm *proje görselleri ve sistem çalışma linkleri*, **ayrıca sunum dosyası olarak karşı tarafa doğrudan iletilecektir.**
+
