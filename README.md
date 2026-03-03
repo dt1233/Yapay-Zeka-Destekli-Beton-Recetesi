@@ -31,3 +31,8 @@ Modelin algoritma yapısı, eğitiminde kullanılan deneysel veri dizinleri ve e
 
 > 📌 **Basın & İletişim:** Projemizin televizyon/gazete haber kupürleri, analiz sonuç belgeleri, algoritmanın ürettiği canlı raporlar ile talep edilecek diğer tüm *proje görselleri ve sistem çalışma linkleri*, **ayrıca sunum dosyası olarak karşı tarafa doğrudan iletilecektir.**
 
+---
+<div align="center">
+  <p><i>Bu proje, "Yeşil Türkiye, Yeşil Dünya" amacıyla <link>Betsan Teknoloji</link> tarafından geliştirilmiştir.</i></p>
+  <p>betsanglobal.com</p>
+</div>
